@@ -5,3 +5,4 @@
 // git add -A - active all files
 // git commit -a -m"title of the commit"
 // got log - show all commits
+// git push - pushing files
